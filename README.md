@@ -1,4 +1,4 @@
-# CardTracker — Sanitized Architecture Sample
+# SnapBuyMarket — Sanitized Architecture Sample
 
 Flask-based backend system implementing structured ingestion, normalization, pricing analysis, and ROI evaluation workflows for large-scale trading card datasets.
 
